@@ -1,0 +1,14 @@
+{
+  "item.specialised_cells.armory_cell_16k": "16k ME防具ストレージセル",
+  "item.specialised_cells.armory_cell_1k": "1k ME防具ストレージセル",
+  "item.specialised_cells.armory_cell_4k": "4k ME防具ストレージセル",
+  "item.specialised_cells.armory_cell_housing": "防具ストレージセル筐体",
+  "item.specialised_cells.enchanted_book_cell_16k": "16k MEエンチャントされた本ストレージセル",
+  "item.specialised_cells.enchanted_book_cell_1k": "1k MEエンチャントされた本ストレージセル",
+  "item.specialised_cells.enchanted_book_cell_4k": "4k MEエンチャントされた本ストレージセル",
+  "item.specialised_cells.enchanted_book_cell_housing": "エンチャントされた本ストレージセル筐体",
+  "item.specialised_cells.tools_cell_16k": "16k MEツールストレージセル",
+  "item.specialised_cells.tools_cell_1k": "1k MEツールストレージセル",
+  "item.specialised_cells.tools_cell_4k": "4k MEツールストレージセル",
+  "item.specialised_cells.tools_cell_housing": "ツールストレージセル筐体"
+}
